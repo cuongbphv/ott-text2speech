@@ -1,0 +1,6 @@
+flask
+gtts
+librosa
+soundfile
+pyrubberband
+pydub
